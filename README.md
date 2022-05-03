@@ -6,6 +6,6 @@ Notre repository contient les fichiers suivants :
 - un pdf qui résume l'article de base, ainsi que le travail que nous avons fourni dans le cadre du projet.
 - le notebook qui implémente les méthodes de l'article sur la base de données Cars.
 - des fichiers checkpoints qui stockent les paramètres de notre modèle pour générer des images en taille 60x60 px.
-- un dossier qui contient des fichiers checkpoints, qui sont les checkpoints obtenus lors de la phase de grid-search.
+- un dossier qui contient des fichiers checkpoints, qui sont ceux obtenus lors de la phase de grid-search.
 
 Auteurs : Rémi VIDAL et Yann DE COSTER.
